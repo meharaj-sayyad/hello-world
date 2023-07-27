@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>DevOps Learning - New User Registration</title>
+  <title>DevSecOps Learning - New User Registration</title>
   <!-- Add any necessary CSS or scripts here -->
   <style>
     body {
